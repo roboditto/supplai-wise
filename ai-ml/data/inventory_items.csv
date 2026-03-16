@@ -1,0 +1,16 @@
+item_id,sku,name,category,warehouse_id,zone,quantity_in_stock,reorder_threshold,unit_type,supplier,last_updated_at
+ITM-001,MED-001,Medical Kits,Healthcare,WH-001,A1,500,150,kits,Carib Med Supply,2026-03-14T12:00:00Z
+ITM-002,WAT-001,Bottled Water,Relief Supplies,WH-001,A2,120,200,cases,Island Beverages,2026-03-14T12:01:00Z
+ITM-003,FOOD-001,Food Packs,Relief Supplies,WH-001,A3,320,120,boxes,JA Foods Wholesale,2026-03-14T12:02:00Z
+ITM-004,GEN-001,Portable Generators,Equipment,WH-001,B1,18,8,units,PowerPro Jamaica,2026-03-14T12:03:00Z
+ITM-005,BAT-001,Battery Packs,Electronics,WH-001,B2,75,40,units,VoltHub,2026-03-14T12:04:00Z
+ITM-006,GLO-001,Safety Gloves,PPE,WH-002,A1,420,150,pairs,SafeHands Ltd,2026-03-14T12:05:00Z
+ITM-007,HEL-001,Safety Helmets,PPE,WH-002,A2,160,80,units,SafeHands Ltd,2026-03-14T12:06:00Z
+ITM-008,RAD-001,Handheld Radios,Communications,WH-002,B1,48,20,units,CommsLink,2026-03-14T12:07:00Z
+ITM-009,LGT-001,LED Flashlights,Equipment,WH-002,B2,210,90,units,BrightWay,2026-03-14T12:08:00Z
+ITM-010,TAR-001,Tarpaulins,Shelter,WH-002,C1,95,60,rolls,StormReady Supply,2026-03-14T12:09:00Z
+ITM-011,MED-002,First Aid Refills,Healthcare,WH-003,A1,140,70,packs,Carib Med Supply,2026-03-14T12:10:00Z
+ITM-012,WAT-002,Water Purification Tablets,Relief Supplies,WH-003,A2,40,60,boxes,AquaSure,2026-03-14T12:11:00Z
+ITM-013,FOOD-002,Baby Formula,Relief Supplies,WH-003,A3,52,40,cases,JA Foods Wholesale,2026-03-14T12:12:00Z
+ITM-014,SOL-001,Solar Lanterns,Energy,WH-003,B1,130,50,units,SunGrid,2026-03-14T12:13:00Z
+ITM-015,SAN-001,Sanitation Kits,Healthcare,WH-003,B2,68,75,kits,CleanStart,2026-03-14T12:14:00Z

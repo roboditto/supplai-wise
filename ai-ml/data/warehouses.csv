@@ -1,0 +1,4 @@
+warehouse_id,name,city,address,latitude,longitude,manager_user_id,created_at
+WH-001,Kingston Central Warehouse,Kingston,"Marcus Garvey Dr, Kingston",17.9833,-76.8000,USR-002,2026-03-14T08:00:00Z
+WH-002,Mandeville Regional Depot,Mandeville,"Manchester Rd, Mandeville",18.0417,-77.5074,USR-003,2026-03-14T08:00:00Z
+WH-003,Montego Bay Distribution Hub,Montego Bay,"Howard Cooke Blvd, Montego Bay",18.4762,-77.8939,USR-002,2026-03-14T08:00:00Z

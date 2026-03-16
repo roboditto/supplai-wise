@@ -1,0 +1,4 @@
+user_id,full_name,email,role,password_hint,created_at
+USR-001,Admin User,admin@supplysightai.demo,admin,demo123,2026-03-14T08:00:00Z
+USR-002,Operations Lead,ops@supplysightai.demo,operator,demo123,2026-03-14T08:05:00Z
+USR-003,Warehouse Clerk,warehouse@supplysightai.demo,operator,demo123,2026-03-14T08:10:00Z

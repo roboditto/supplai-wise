@@ -1,0 +1,11 @@
+log_id,shipment_id,logged_at,latitude,longitude,speed_kmh,status_note
+LOG-001,TRK-101,2026-03-14T11:00:00Z,18.0160,-76.8800,55,Departed Kingston
+LOG-002,TRK-101,2026-03-14T12:30:00Z,18.0850,-77.1900,62,Passing May Pen
+LOG-003,TRK-101,2026-03-14T14:10:00Z,18.2140,-77.6880,41,Heavy traffic near St. James border
+LOG-004,TRK-102,2026-03-14T12:00:00Z,17.9950,-76.8200,48,Vehicle en route westbound
+LOG-005,TRK-102,2026-03-14T13:30:00Z,18.0150,-76.9500,52,Steady progress
+LOG-006,TRK-104,2026-03-14T10:30:00Z,18.4550,-77.8700,44,Departure from Montego Bay
+LOG-007,TRK-104,2026-03-14T12:40:00Z,18.4300,-77.7600,25,Rain and slowdown reported
+LOG-008,TRK-104,2026-03-14T14:00:00Z,18.4100,-77.7300,19,Delay due to road obstruction
+LOG-009,TRK-105,2026-03-14T11:30:00Z,18.0550,-77.4500,58,Heading north-east
+LOG-010,TRK-105,2026-03-14T13:55:00Z,18.1510,-77.3200,47,Moderate traffic

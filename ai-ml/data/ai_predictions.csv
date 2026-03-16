@@ -1,0 +1,6 @@
+prediction_id,shipment_id,prediction_type,model_name,input_summary,output_value,confidence_score,generated_at
+PRD-001,TRK-101,eta_minutes,mock_linear_regression,distance_remaining=61km; traffic=high; weather=clear,245,0.84,2026-03-14T14:15:00Z
+PRD-002,TRK-101,delay_risk,mock_random_forest,route_traffic=high; avg_speed=41; stop_count=1,0.78,0.81,2026-03-14T14:15:30Z
+PRD-003,TRK-101,stockout_forecast,rules_engine,item=ITM-002; current_stock=120; usage_rate_per_hr=35,3.4_hours_to_stockout,0.88,2026-03-14T14:16:00Z
+PRD-004,TRK-104,delay_risk,mock_random_forest,route_traffic=medium; weather=rain; obstruction=yes,0.86,0.85,2026-03-14T14:05:00Z
+PRD-005,TRK-105,eta_minutes,mock_linear_regression,distance_remaining=72km; traffic=medium; weather=clear,180,0.79,2026-03-14T14:00:00Z

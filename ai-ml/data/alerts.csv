@@ -1,0 +1,5 @@
+alert_id,severity,alert_type,related_entity_type,related_entity_id,title,message,created_at,is_active
+ALT-001,critical,stockout_risk,shipment,TRK-101,Water stockout risk,Bottled Water at WH-001 may stock out before TRK-101 arrives if delay exceeds 2 hours.,2026-03-14T14:16:00Z,true
+ALT-002,high,delay_risk,shipment,TRK-104,Shipment delay detected,TRK-104 is delayed due to road obstruction and weather slowdown.,2026-03-14T14:06:00Z,true
+ALT-003,medium,low_stock,inventory_item,ITM-012,Low stock alert,Water Purification Tablets have fallen below reorder threshold at WH-003.,2026-03-14T12:20:00Z,true
+ALT-004,medium,low_stock,inventory_item,ITM-015,Low stock alert,Sanitation Kits are below recommended stock level at WH-003.,2026-03-14T12:25:00Z,true
